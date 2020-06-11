@@ -1,7 +1,7 @@
 # SwiftUI-Tutorial
 Tutorial from BigMountainStudio.com
 
-https://www.bigmountainstudio.com/courses/snippets/269500-swiftui-code-snippets-mini-course/778993-summary
+https://www.bigmountainstudio.com/courses/snippets
 
 I enjoyed following along and entering the xcode snippets.
 
